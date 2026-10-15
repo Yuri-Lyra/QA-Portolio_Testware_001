@@ -1,0 +1,4 @@
+product,regular_price,notes
+Filler A,1000.00,"round numbers"
+Filler B,800.00,"mid price"
+Filler C,333.34,"fractional: member price 250.005 forces a rounding rule"
